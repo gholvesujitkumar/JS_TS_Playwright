@@ -10,4 +10,4 @@ console.log("Infinity: ", Infinity); //Infinity
 console.log("Negative Infinity: ", -Infinity); //Negative Infinity
 console.log("NaN: ", NaN); //NaN
 console.log("0/0: ", 0/0); //NaN
-console.log("'hello': ", 'hello'); //hello
+console.log("'hello': ", 'hello'); //hello`
