@@ -9,7 +9,10 @@ This repository contains a collection of beginner-friendly JavaScript exercises 
 - Keywords, identifiers, and comments
 - Literals and data types
 - Arithmetic, assignment, comparison, and logical operators
+- Increment and decrement operators
 - Ternary and conditional-style expressions
+- `if`/`else` conditional statements
+- `switch` statements
 
 ## Project Structure
 
@@ -18,6 +21,9 @@ This repository contains a collection of beginner-friendly JavaScript exercises 
 - `03_Chapter_JS_Keywords_Identifier_Literal/` - Keywords, identifiers, and literal rules
 - `04_Literals/` - Different JavaScript literals and value types
 - `05_Js_Operators/` - Operators and practical examples
+- `06_JS_Increment_decrement/` - Increment and decrement operators
+- `07_JS_If_Else_Condition/` - Conditional logic using `if` and `else`
+- `08_JS_Switch_Statement/` - Selecting a case with a `switch` statement
 
 ## Getting Started
 
@@ -33,6 +39,12 @@ You can also run other examples from the project folders the same way:
 
 ```bash
 node 05_Js_Operators/Arithmatic_operator.js
+```
+
+The latest chapter's example can be run with:
+
+```bash
+node 08_JS_Switch_Statement/50_Switch.js
 ```
 
 ## Example
