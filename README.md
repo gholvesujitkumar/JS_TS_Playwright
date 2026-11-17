@@ -1,50 +1,50 @@
 # JavaScript Practice Repository
 
-This repository contains a collection of beginner-friendly JavaScript exercises and examples focused on core fundamentals. It is organized as a learning path covering the most important JavaScript concepts for someone starting from scratch.
+This repository is a beginner-friendly JavaScript learning workspace with small, focused files covering core JavaScript fundamentals. It is organized as a step-by-step practice path for learning syntax, logic, and common programming patterns.
 
 ## Topics Covered
 
-- JavaScript basics
+- JavaScript basics and syntax
 - JavaScript engine fundamentals
-- Keywords, identifiers, and comments
-- Literals and data types
-- Arithmetic, assignment, comparison, and logical operators
+- Keywords, identifiers, literals, and comments
+- Primitive values and literals
+- Operators: arithmetic, assignment, comparison, logical, ternary, and `typeof`
 - Increment and decrement operators
-- Ternary and conditional-style expressions
-- `if`/`else` conditional statements
+- Conditional logic with `if`, `else`, and nested conditions
 - `switch` statements
+- Looping concepts: `for`, `while`, and `do...while`
+- Break statements and practical loop exercises
 
 ## Project Structure
 
 - `01_Chapter_JS_Basic/` - Basic JavaScript syntax and first programs
-- `02_ JS Engine_Basic/` - Understanding how the JavaScript engine works
-- `03_Chapter_JS_Keywords_Identifier_Literal/` - Keywords, identifiers, and literal rules
-- `04_Literals/` - Different JavaScript literals and value types
-- `05_Js_Operators/` - Operators and practical examples
-- `06_JS_Increment_decrement/` - Increment and decrement operators
-- `07_JS_If_Else_Condition/` - Conditional logic using `if` and `else`
-- `08_JS_Switch_Statement/` - Selecting a case with a `switch` statement
+- `02_ JS Engine_Basic/` - Introduction to JavaScript engine behavior
+- `03_Chapter_JS_Keywords_Identifier_Literal/` - Keywords, identifiers, literals, and comments
+- `04_Literals/` - Number, string, null, undefined, and literal examples
+- `05_Js_Operators/` - Arithmetic, comparison, assignment, logical, and ternary operator practice
+- `06_JS_Increment_decrement/` - Increment/decrement operators and nullish examples
+- `07_JS_If_Else_Condition/` - Conditionals and nested decision-making logic
+- `08_JS_Switch_Statement/` - `switch` statement examples
+- `09_Chapter_Loops/` - `for` loop exercises
+- `10_While_Loops/` - `while` loop examples and `break` practice
+- `11_do_while_loops/` - `do...while` loop examples
 
 ## Getting Started
 
-Make sure you have Node.js installed on your machine.
+Make sure Node.js is installed on your machine.
 
-To run a JavaScript file:
+Run a JavaScript file from the project root:
 
 ```bash
 node 01_Chapter_JS_Basic/01_HelloWorld.js
 ```
 
-You can also run other examples from the project folders the same way:
+Other examples:
 
 ```bash
 node 05_Js_Operators/Arithmatic_operator.js
-```
-
-The latest chapter's example can be run with:
-
-```bash
-node 08_JS_Switch_Statement/50_Switch.js
+node 09_Chapter_Loops/For_Loops/63_Loops.js
+node 11_do_while_loops/77_dowhile.js
 ```
 
 ## Example
@@ -55,4 +55,4 @@ console.log("Hello World");
 
 ## Notes
 
-This project is intended for learning and practice. Each file is small and focused, making it easy to experiment and understand JavaScript fundamentals step by step.
+This project is intended for practice and learning. Each file is kept small and focused so you can experiment, test ideas, and understand JavaScript fundamentals one concept at a time.
