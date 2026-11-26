@@ -11,4 +11,4 @@ let tests=["login","search","checkin","checkout"];
     {
         console.log(test); //values
     }
-    console.log("_____");
+    console.log("________________________________");

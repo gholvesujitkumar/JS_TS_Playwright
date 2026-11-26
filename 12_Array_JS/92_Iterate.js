@@ -1,6 +1,8 @@
 let tests=["login","search","checkin","checkout"];
 
 
+console.log(typeof tests); //object
+
 
 for(let index=0; index<tests.length; index++)
     {
